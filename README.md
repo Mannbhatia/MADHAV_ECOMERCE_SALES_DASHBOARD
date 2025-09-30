@@ -1,6 +1,6 @@
-# MADHAV_ECOMERCE_SALES_DASHBOARD
+# MADHAV_ECOMMERCE_SALES_DASHBOARD
 Power bi dashboard
-Analyze Ecomerce sales data created an interactive dashboard using power bi.
+Analyze Ecommerce sales data created an interactive dashboard using power bi.
 Project Objective: Owner of Madhav store wants us to help them create a dashboard to track 
 and analyze their online sales across india.
 project learning: (a) Created an interactive dashboard to track and analyze online sales data .
